@@ -12,7 +12,7 @@ h2 {
 
 h3 {
     margin-left: 200px;
-    margin-top: 200px;
+    margin-top: 100px;
     font-family: Arial, sans-serif;
     font-size: 32px;
     color: #006600; 
@@ -21,4 +21,6 @@ h4 {
      font-family: Arial, sans-serif;
     font-size: 32px;
     color: #006600;
+    margin-left : 200px;
+    margin-top : 100px
   
